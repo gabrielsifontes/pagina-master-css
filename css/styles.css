@@ -411,16 +411,13 @@ footer a {
 		margin-top: -1.5em;
 	}
 	aside .seccion {
-		gap: 1px;
+		gap: 0.5em;
 		
 		margin: 0.2em;
 	}
 	aside .seccion .botones {
 		gap: 1px;
 	} 
-	aside .enviar {
-		margin-top: 1em;
-	}	
 
 	aside input[type="submit"] {
 		width: 100%;
